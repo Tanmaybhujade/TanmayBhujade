@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm TanmayBhujade 🚩</h1>
 - 🌱 I’m currently learning  web development, Data science.
+-  I'm looking for help with Data Structure and Algorithm 😭:
+-Ask me about anything , I am Happy to help :
+
 
 - 📫 How to reach me : tanmaybhujade@gmail.com
 
