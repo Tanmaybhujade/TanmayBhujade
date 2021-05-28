@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm TanmayBhujade 🚩</h1>
-- 🌱 I’m currently learning **web development, Data science**
+- 🌱 I’m currently learning  web development, Data science.
 
-- 📫 How to reach me **tanmaybhujade@gmail.com**
+- 📫 How to reach me : tanmaybhujade@gmail.com
 
-- ⚡ Fun fact **I am shy**
+- ⚡ Fun fact  I am shy
 
 
 <h3 align="left">Languages and Tools:</h3>
