@@ -3,10 +3,10 @@
 <h3 align="center">frontend web developer</h3>
 
 
-- 🌱 I’m currently working on **Backend Web development and Data science.**
+- 🌱 I’m currently working on **Backend Web development and Data science..**
 - 💭 I am intrested in projects that involve problem solving.
   
-- ⚡ Fun fact: BLANK !
+- ⚡ Fun fact: BLANK !!!!!
 
 - 📫 How to reach me **: tanmaybhujade@gmail.com**
 
