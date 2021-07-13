@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
 
-- 🌱 I’m currently **working on Backend Web development and Data science..**
+- 🌱 I’m currently  : working on Backend Web development and Data science..
 
-- 📫 How to reach me **: tanmaybhujade@gmail.com **
+- 📫 How to reach me  : tanmaybhujade@gmail.com 
 
-- ⚡ Fun fact **: BLANK !!!!!**
+- ⚡ Fun fact  : BLANK !!!!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
