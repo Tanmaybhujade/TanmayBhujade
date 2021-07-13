@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Frontend Developer.</h3>
 
-<p align="middle"><img width="20%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
 
@@ -16,16 +16,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    
-  🤝 Connect
+ 
   
   
 <a href="https://twitter.com/tanmay_bhujade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmay_bhujade" height="30" width="40" /></a>
 <a href="https://instagram.com/tanmay_patil_bhujade_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmay_patil_bhujade_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tanmaybhujade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanmaybhujade" height="30" width="40" /></a>
-
-
-
-
 
 
 
