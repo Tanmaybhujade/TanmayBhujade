@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently **working on Backend Web development and Data science..**
 
-- 📫 How to reach me **: tanmaybhujade@gmail**
+- 📫 How to reach me **: tanmaybhujade@gmail.com **
 
 - ⚡ Fun fact **: BLANK !!!!!**
 
