@@ -1,5 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Tanmay Bhujade</h1>
+
 <h3 align="center">A passionate Frontend Developer.</h3>
+
+<p align="middle"><img width="20%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
 
