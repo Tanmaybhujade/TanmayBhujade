@@ -4,6 +4,10 @@
 <h3 align="center">A passionate Frontend Web Developer.</h3>
 
 
+<h1 align="center">Hi 👋, I'm Tanmay Bhujade</h1>
+
+<h3 align="center">A passionate Frontend Web Developer.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
 
 - 🌱 I’m currently  : working on Backend Web development and Data science..
