@@ -11,7 +11,8 @@
 
 - 📫 How to reach me  : tanmaybhujade@gmail.com 
 
-- 
+- ⚡ Fun fact  : BLANK !!!!!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"
