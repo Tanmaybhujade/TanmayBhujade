@@ -30,4 +30,4 @@
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybhujade&theme=radical&title_color=F16707&hide_border=true" width="335px" data-canonical->
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanmaybhujade&theme=onedark)](https://git.io/streak-stats)
+)
