@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋 I'm Tanmay Bhujade.
+<h1 align="center">Hi 👋 I'm Tanmay Bhujade..
 </h1>
 
 <h3 align="center">A passionate Frontend Web Developer.</h3>
