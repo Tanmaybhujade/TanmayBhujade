@@ -20,4 +20,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmaybhujade&show_icons=true&locale=en&layout=compact" alt="tanmaybhujade" /></p>
 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tanmaybhujade&theme=dark-smoky&hide_border=true)
