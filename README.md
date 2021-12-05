@@ -14,7 +14,7 @@
 </P>
 
 
-[![Tanmays's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tanmaybhujade)](https://git.io/J1Ycx)
+
 
 
 </p>
