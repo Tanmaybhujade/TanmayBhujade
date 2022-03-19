@@ -3,7 +3,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Tanmay Bhujade....</h1>
+<<<<<<< HEAD
+<h1 align="center">Hi 👋, I'm Tanmay Bhujade.</h1>
+=======
+<h1 align="center">Hello 👋, I'm Tanmay Bhujade.</h1>
+>>>>>>> 1a1cb0a17b9bf7dfa12ef837a128327cb31e6ef6
 
 
 
@@ -12,9 +16,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tanmay_bhujade" target="blank"><img src="https://img.shields.io/twitter/follow/tanmay_bhujade?logo=twitter&style=for-the-badge" alt="tanmay_bhujade" /></a> </p>
-
-
-
 
 
 
@@ -29,5 +30,7 @@
 
 
 ![Majorly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybhujade&theme=dark)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tanmaybhujade&theme=dark)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanmaybhujade&theme=dark)](https://git.io/streak-stats)
+
