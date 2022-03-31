@@ -31,9 +31,9 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanmaybhujade&theme=material-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanmaybhujade&theme=highcontrast)](https://git.io/streak-stats)
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybhujade&hide=php&theme=material-palenight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybhujade&hide=php&theme=highcontrast" />
 
 </p>  
 </div>
