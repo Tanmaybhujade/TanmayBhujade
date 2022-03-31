@@ -27,12 +27,13 @@
 | `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white)  ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <hr>  
                                                                                                                                                                                                      
-![Tanmaybhujade's github stats](https://github-readme-stats.vercel.app/api/?username=Tanmaybhujade&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=00e7ff&text_color=9f9f1f&bg_color=000000)
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanmaybhujade&theme=highcontrast)](https://git.io/streak-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybhujade&hide=php&theme=highcontrast" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanmaybhujade&theme=material-palenight)](https://git.io/streak-stats)
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybhujade&hide=php&theme=material-palenight" />
 
 </p>  
 </div>
