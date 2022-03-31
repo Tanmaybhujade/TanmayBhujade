@@ -29,10 +29,10 @@
                                                                                                                                                                                                      
 ![Tanmaybhujade's github stats](https://github-readme-stats.vercel.app/api/?username=Tanmaybhujade&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=00e7ff&text_color=9f9f1f&bg_color=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaybhujade&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=000000)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanmaybhujade&theme=highcontrast)](https://git.io/streak-stats)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybhujade&hide=php&theme=highcontrast" />
 
 </p>  
 </div>
