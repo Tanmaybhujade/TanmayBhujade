@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TANMAY BHUJADE</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
 
@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmaybhujade&show_icons=true&locale=en" alt="tanmaybhujade" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaybhujade&" alt="tanmaybhujade" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaybhujade& Theme="highcontrast"" alt="tanmaybhujade"  /></p>
