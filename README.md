@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 
-<h1 align="center">Hi 👋, I'm Tanmay Bhujade....
-=======
 <h1 align="center">Hi 👋, I'm TANMAY BHUJADE</h1>
->>>>>>> 2ee3ec2756162026e65cae5365f1347ae955a927
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
