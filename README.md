@@ -20,7 +20,8 @@
 
 
 
-[![Tanmay's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanmaybhujade)]
+
+[![Tanmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tanmaybhujade&theme=dracula)](https://github.com/Tanmaybhujade/github-readme-activity-graph)
 
 ### 👩‍💻 Languages & Tools :
 
