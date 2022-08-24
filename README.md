@@ -20,7 +20,7 @@
 
 
 
-[![Harsha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanmaybhujade)](https://git.io/J1Ycx)
+[![Tanmay's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanmaybhujade)]
 
 ### 👩‍💻 Languages & Tools :
 
