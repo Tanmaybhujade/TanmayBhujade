@@ -1,5 +1,6 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Tanmay Bhujade..
 =======
 <h1 align="center">Hi 👋, I'm TANMAY BHUJADE..h<1>
@@ -8,6 +9,10 @@
 <h1 align="center">Hi 👋, I'm Tanmay Bhujade.... </h1>
 
 
+=======
+
+<h1 align="center">Hi 👋, I'm Tanmay Bhujade..</h1>
+>>>>>>> d247d96481f36738f72d3ec906a9b18290ae7f18
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
