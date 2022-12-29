@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Tanmay patil Bhujade .</h1>
+<h1 align="center">Hi 👋, I'm Tanmay  Bhujade .</h1>
 
 
 
