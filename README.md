@@ -1,27 +1,29 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Tanmay Bhujade..</h1>
->>>>>>> d247d96481f36738f72d3ec906a9b18290ae7f18
+
+
+<h1 align="center">Hello 👋, I'm Tanmay Bhujade.</h1>
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tanmay_bhujade" target="blank"><img src="https://img.shields.io/twitter/follow/tanmay_bhujade?logo=twitter&style=for-the-badge" alt="tanmay_bhujade" /></a> </p>
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanmay_bhujade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmay_bhujade" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanmay-bhujade-39835b200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmay-bhujade-39835b200/" height="30" width="40" /></a>
-<a href="https://instagram.com/tanmay_patil_bhujade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmay_patil_bhujade" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/tanmaybhujade?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tanmaybhujade?hr_r=1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanmaybhujade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmaybhujade/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/tanmay_patil_bhujade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tanmay_patil_bhujade/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/tanmaybhujade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tanmaybhujade" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/tanmaybhujade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tanmaybhujade/" height="30" width="40" /></a>
 <a href="https://discord.gg/tanmay_bhujade#9405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tanmay_bhujade#9405" height="30" width="40" /></a>
 </p>
-
-
-
-
 
 
 
@@ -34,5 +36,7 @@
 
 
 ![Majorly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybhujade&theme=dark)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tanmaybhujade&theme=dark)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanmaybhujade&theme=dark)](https://git.io/streak-stats)
+
