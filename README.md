@@ -6,11 +6,7 @@
 
 =======
 <h1 align="center">Hello 👋, I'm Tanmay Bhujade.</h1>
->>>>>>> 1a1cb0a17b9bf7dfa12ef837a128327cb31e6ef6
-tanm
-=======
 
->>>>>>> 326d857e5d1dc430c84505e471a3ef43fcf4c0d4
 
 
 
