@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hello 👋, I'm Tanmay Bhujade.nk</h1>
+<h1 align="center">Hello 👋, I'm Tanmay Bhujade.k</h1>
 
 
 
