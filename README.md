@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://twitter.com/tanmay_says__&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay_says__" /> </p>
 
 <p align="left"> <a href="https://https://twitter.com/tanmay_says__" target="blank"><img src="https://img.shields.io/twitter/follow/tanmay_bhujade?logo=twitter&style=for-the-badge" alt="tanmay_bhujade" /></a> </p>
 
