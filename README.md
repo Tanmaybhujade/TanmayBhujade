@@ -14,7 +14,7 @@
 
 
 
-<p align="left"> <a href="https://https://twitter.com/"tanmay_says__"target="blank"><img src="https://img.shields.io/twitter/follow/@tanmay_says__?logo=twitter&style=for-the-badge" alt="tanmay_says__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/"tanmay_says__"target="blank"><img src="https://img.shields.io/twitter/follow/@tanmay_says__?logo=twitter&style=for-the-badge" alt="tanmay_says__" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
