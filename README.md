@@ -31,6 +31,7 @@
 
 ![Majorly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybhujade&theme=dark)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaybhujade&" alt="tanmaybhujade" /></p>
+
   
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tanmaybhujade&theme=highcontrast" alt="GitHub Streak" /></a>
