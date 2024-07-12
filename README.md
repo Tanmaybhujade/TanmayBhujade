@@ -10,9 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tanmay_bhujade" target="blank"><img src="https://img.shields.io/twitter/follow/tanmay_bhujade?logo=twitter&style=for-the-badge" alt="tanmay_bhujade" /></a> </p>
-=======
-<p align="left"> <a href="https://twitter.com/"tanmay_says__"target="blank"><img src="https://img.shields.io/twitter/follow/tanmay_says__?logo=twitter&style=for-the-badge" alt="tanmay_says__" /></a> </p>
->>>>>>> 19fabd92b1bd88cd60a20f7d51515b158817eeba
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
