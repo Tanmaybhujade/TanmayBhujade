@@ -2,11 +2,8 @@
 
 
 
-<<<<<<< HEAD
-<h1 align="center">Hello 👋, I'm Tanmay Bhujade.......................................</h1>
-=======
 <h1 align="center">Hello 👋, I'm Tanmay Bhujade.</h1>
->>>>>>> 37989f490672d01667241a83c02e5644fb50d1ef
+
 
 
 
