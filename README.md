@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello 👋, I'm Tanmay Bhujade pat.</h1>
+<h1 align="center">Hello 👋, I'm Tanmay Bhujade patil.</h1>
 
 
 
@@ -25,7 +25,7 @@
 </p>
 
 
-ta
+
 ### 👩‍💻 Languages & Tools :
 
 |               |           |
