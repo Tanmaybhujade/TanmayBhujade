@@ -1,5 +1,6 @@
 
 
+<<<<<<< HEAD
 
 
 <<<<<<< HEAD
@@ -7,6 +8,9 @@
 =======
 
 
+=======
+<h1 align="center">Hello 👋, I'm Tanmay Bhujade.</h1>
+>>>>>>> 258f69e0d1bdf599ac346501ee8b2cd816b262ea
 
 
 
@@ -39,6 +43,5 @@
 ![Majorly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybhujade&theme=highcontrast)  
 
 
-  
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tanmaybhujade&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tanmaybhujade&theme=dark" alt="GitHub Streak" /></a>
