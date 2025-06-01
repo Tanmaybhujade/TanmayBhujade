@@ -1,16 +1,8 @@
 
 
-<<<<<<< HEAD
 
+<h1 align="center">Hello 👋, I'm Tanmay Bhujade. </h1>
 
-<<<<<<< HEAD
-<h1 align="center">Hello 👋, I'm Tanmay Bhujade </h1>
-=======
-
-
-=======
-<h1 align="center">Hello 👋, I'm Tanmay Bhujade.</h1>
->>>>>>> 258f69e0d1bdf599ac346501ee8b2cd816b262ea
 
 
 
