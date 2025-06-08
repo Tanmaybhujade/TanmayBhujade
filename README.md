@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hello 👋, Iam Tanmay Bhujade. </h1>
+<h1 align="center">Hello 👋, Iam Tanmay Bhujade </h1>
 
 
 <p align="left"> <a href="https://twitter.com/tanmay_bhujade" target="blank"><img src="https://img.shields.io/twitter/follow/tanmay_bhujade?logo=twitter&style=for-the-badge" alt="tanmay_bhujade" /></a> </p>
