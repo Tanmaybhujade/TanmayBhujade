@@ -1,8 +1,8 @@
 
 
 
-<h1 align="center">Hello 👋,  Tanmay Bhujade. </h1>
-patil
+<h1 align="center">Hello 👋, I'm Tanmay Bhujade. </h1>
+
 
 
 
