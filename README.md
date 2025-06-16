@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hello 👋, Iam Tanmay Bhujade patil 12
+<h1 align="center">Hello 👋, Iam Tanmay Bhujade 
 
  </h1>
 
