@@ -1,6 +1,6 @@
 
 <<<<<<< HEAD
-<h1 align="center">Hello 👋, Iam Tanmay Bhujade patil 
+<h1 align="center">Hello 👋, Iam Tanmay Bhujade 
 =======
 
 
