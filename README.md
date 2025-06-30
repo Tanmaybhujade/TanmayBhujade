@@ -1,7 +1,4 @@
 
-<<<<<<< HEAD
-<h1 align="center">Hello 👋, Iam Tanmay Bhujade 
-=======
 
 
 <h1 align="center">Hello 👋, I'm Tanmay Bhujade.
