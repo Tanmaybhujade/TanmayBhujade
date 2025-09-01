@@ -5,11 +5,10 @@
  
 
 
-<<<<<<< HEAD
-<h1 align="center">Hello 👋, I'm Tanmay Bhujade pati....</h1>
+
+<h1 align="center">Hello 👋, I'm Tanmay Bhujade...</h1>
 =======
-<h1 align="center">Hello 👋, I'm Tanmay Bhujade..</h1>
->>>>>>> 0688fbb685a84df7af59c1799f2324af6ecdf07b
+
 
 
 
