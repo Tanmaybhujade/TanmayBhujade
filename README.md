@@ -6,8 +6,9 @@
 
 
 
-<h1 align="center">Hello 👋, I'm Tanmay Bhujade patilS</h1>
-=======
+<<<<<<< HEAD
+
+<h1 align="center">Hello 👋, I'm Tanmay Bhujade.. patil
 
 
 
