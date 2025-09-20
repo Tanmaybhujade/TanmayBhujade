@@ -4,14 +4,10 @@
 
  
 
-<<<<<<< HEAD
 
 
 
-
-<h1 align="center">Hello 👋, I'm Tanmay Bhujade.. patil
-hello
-
+<h1 align="center">Hello 👋, I'm Tanmay Bhujade.
 
 
 
