@@ -2,10 +2,6 @@
 
 
 
- 
-
-tanmay
-hello tanmay bhujade
 
 <h1 align="center">Hello 👋, I'm Tanmay Bhujade.
 
