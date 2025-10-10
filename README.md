@@ -4,8 +4,7 @@
 
  
 
-tanmay
-hello tanmay bhujade patil..
+
 
 <h1 align="center">Hello 👋, I'm Tanmay Bhujade.
 
