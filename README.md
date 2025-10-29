@@ -5,11 +5,14 @@
  
 
 
-<<<<<<< HEAD
-tb 
+
 <h1 align="center">Hello 👋, I'm Tanmay Bhujadepatil
 patil
 1
+=======
+
+
+>>>>>>> 93ac1025d1db5b3ecdab2a316ee1f15389d69450
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaybhujade&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaybhujade" /> </p>
