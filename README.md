@@ -7,7 +7,7 @@
 
 <<<<<<< HEAD
 tb 
-<h1 align="center">Hello 👋, I'm Tanmay Bhujade.
+<h1 align="center">Hello 👋, I'm Tanmay Bhujadepatil
 patil
 1
 
